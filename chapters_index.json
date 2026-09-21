@@ -1,0 +1,174 @@
+{
+  "total_chapters": 18,
+  "total_verses": 700,
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "కర్మ షట్కం",
+      "subtitle": "కర్మయోగం, క్రమశిక్షణ మరియు అంతర్గత పోరాటం",
+      "chapters_range": "1 - 6",
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "name": "అర్జున విషాద యోగం",
+          "sanskrit_name": "Arjuna Vishada Yoga",
+          "total_verses": 47,
+          "file_name": "chapter_1.json",
+          "short_description": "కురుక్షేత్ర రణరంగంలో బంధువులను చూసి అర్జునుడు కుప్పకూలడం, విషాదం ద్వారా మొదలయ్యే ఆధ్యాత్మిక ప్రయాణం."
+        },
+        {
+          "chapter_number": 2,
+          "name": "సాంఖ్య యోగం",
+          "sanskrit_name": "Sankhya Yoga",
+          "total_verses": 72,
+          "file_name": "chapter_2.json",
+          "short_description": "ఆత్మ అమరత్వం, కర్మణ్యేవాధికారస్తే సూత్రం మరియు స్థితప్రజ్ఞుని నిశ్చల లక్షణాలు."
+        },
+        {
+          "chapter_number": 3,
+          "name": "కర్మ యోగం",
+          "sanskrit_name": "Karma Yoga",
+          "total_verses": 43,
+          "file_name": "chapter_3.json",
+          "short_description": "పని చేయకుండా ఎవరూ ఉండలేరు; సమాజ హితం కోసం నిష్కామ కర్మ చేయడం, కామక్రోధాల నివారణ."
+        },
+        {
+          "chapter_number": 4,
+          "name": "జ్ఞానకర్మసన్న్యాస యోగం",
+          "sanskrit_name": "Jnana Karma Sanyasa Yoga",
+          "total_verses": 42,
+          "file_name": "chapter_4.json",
+          "short_description": "యదా యదా హి ధర్మస్య అవతార రహస్యం, కర్మలో అకర్మ దర్శనం మరియు జ్ఞానాగ్ని మహాత్యం."
+        },
+        {
+          "chapter_number": 5,
+          "name": "కర్మసన్న్యాస యోగం",
+          "sanskrit_name": "Karma Sanyasa Yoga",
+          "total_verses": 29,
+          "file_name": "chapter_5.json",
+          "short_description": "తామరాకుపై నీటిబొట్టు లాంటి జీవన కళ, తొమ్మిది ద్వారాల పురంలో సాక్షిగా ఉండే ఆత్మ."
+        },
+        {
+          "chapter_number": 6,
+          "name": "ఆత్మసంయమ యోగం",
+          "sanskrit_name": "Dhyana / Atmasamyama Yoga",
+          "total_verses": 47,
+          "file_name": "chapter_6.json",
+          "short_description": "మనస్సును జయించే ధ్యాన పద్ధతులు, అభ్యాస-వైరాగ్యాలు మరియు యోగభ్రష్టుని గతి."
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category_name": "భక్తి షట్కం",
+      "subtitle": "పరమాత్మ దివ్య తత్వం, విభూతులు మరియు విశ్వరూపం",
+      "chapters_range": "7 - 12",
+      "chapters": [
+        {
+          "chapter_number": 7,
+          "name": "జ్ఞానవిజ్ఞాన యోగం",
+          "sanskrit_name": "Jnana Vijnana Yoga",
+          "total_verses": 30,
+          "file_name": "chapter_7.json",
+          "short_description": "అపర-పర ప్రకృతులు, మాయను దాటే మార్గం మరియు నలుగురు రకాల భక్తులు."
+        },
+        {
+          "chapter_number": 8,
+          "name": "అక్షరపరబ్రహ్మ యోగం",
+          "sanskrit_name": "Akshara Parabrahma Yoga",
+          "total_verses": 28,
+          "file_name": "chapter_8.json",
+          "short_description": "మరణ సమయంలో స్మరణ రహస్యం, ఓంకార ధ్యానం మరియు బ్రహ్మదేవుని కాలచక్రం."
+        },
+        {
+          "chapter_number": 9,
+          "name": "రాజవిద్యా రాజగుహ్య యోగం",
+          "sanskrit_name": "Raja Vidya Raja Guhya Yoga",
+          "total_verses": 34,
+          "file_name": "chapter_9.json",
+          "short_description": "యోగక్షేమం వహామ్యహం అభయం, పత్రం-పుష్పం సమర్పణ మరియు న మే భక్తః ప్రణశ్యతి."
+        },
+        {
+          "chapter_number": 10,
+          "name": "విభూతి యోగం",
+          "sanskrit_name": "Vibhuti Yoga",
+          "total_verses": 42,
+          "file_name": "chapter_10.json",
+          "short_description": "చతుశ్శ్లోకీ గీత మరియు సృష్టిలోని సమస్త శ్రేష్ఠ వస్తువులలో దైవ తేజో దర్శనం."
+        },
+        {
+          "chapter_number": 11,
+          "name": "విశ్వరూప సందర్శన యోగం",
+          "sanskrit_name": "Vishwaroopa Sandarshana Yoga",
+          "total_verses": 55,
+          "file_name": "chapter_11.json",
+          "short_description": "వేయి సూర్యుల ప్రచండ తేజస్సు, కాలోఽస్మి కాలరూప దర్శనం మరియు నిమిత్తమాత్రం భవ సవ్యసాచిన్."
+        },
+        {
+          "chapter_number": 12,
+          "name": "భక్తి యోగం",
+          "sanskrit_name": "Bhakti Yoga",
+          "total_verses": 20,
+          "file_name": "chapter_12.json",
+          "short_description": "సగుణ-నిర్గుణోపాసన సమన్వయం మరియు కృష్ణుడికి ప్రియమైన భక్తుని 35 అమృత లక్షణాలు."
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "category_name": "జ్ఞాన షట్కం",
+      "subtitle": "క్షేత్ర-క్షేత్రజ్ఞ వివేకం, గుణ విశ్లేషణ మరియు మోక్షం",
+      "chapters_range": "13 - 18",
+      "chapters": [
+        {
+          "chapter_number": 13,
+          "name": "క్షేత్రక్షేత్రజ్ఞ విభాగ యోగం",
+          "sanskrit_name": "Kshetra Kshetrajna Vibhaga Yoga",
+          "total_verses": 34,
+          "file_name": "chapter_13.json",
+          "short_description": "దేహమనే పొలం, ఆత్మయనే రైతు; 24 ప్రకృతి తత్వాలు మరియు 20 జ్ఞాన గుణాలు."
+        },
+        {
+          "chapter_number": 14,
+          "name": "గుణత్రయ విభాగ యోగం",
+          "sanskrit_name": "Gunatraya Vibhaga Yoga",
+          "total_verses": 27,
+          "file_name": "chapter_14.json",
+          "short_description": "సత్వ-రజో-తమో గుణాల బంధన విశ్లేషణ మరియు గుణాలను దాటిన గుణాతీతుని నడత."
+        },
+        {
+          "chapter_number": 15,
+          "name": "పురుషోత్తమ ప్రాప్తి యోగం",
+          "sanskrit_name": "Purushottama Prapti Yoga",
+          "total_verses": 20,
+          "file_name": "chapter_15.json",
+          "short_description": "తలక్రిందుల సంసార అశ్వత్థ వృక్షం, అసంగ శస్త్రం మరియు క్షర-అక్షరాతీత పురుషోత్తముడు."
+        },
+        {
+          "chapter_number": 16,
+          "name": "దైవాసుర సంపద్విభాగ యోగం",
+          "sanskrit_name": "Daivasura Sampad Vibhaga Yoga",
+          "total_verses": 24,
+          "file_name": "chapter_16.json",
+          "short_description": "26 దైవీ సద్గుణాలు, అసురుల అహంకార మనస్తత్వం మరియు 3 నరక ద్వారాలు (కామ, క్రోధ, లోభాలు)."
+        },
+        {
+          "chapter_number": 17,
+          "name": "శ్రద్ధాత్రయ విభాగ యోగం",
+          "sanskrit_name": "Shraddhatraya Vibhaga Yoga",
+          "total_verses": 28,
+          "file_name": "chapter_17.json",
+          "short_description": "ఆహార సైన్స్ (సాత్విక, రాజసిక, తామసిక), వాఙ్మయ తపస్సు మరియు ఓం తత్ సత్ మంత్ర మహాత్యం."
+        },
+        {
+          "chapter_number": 18,
+          "name": "మోక్షసన్న్యాస యోగం",
+          "sanskrit_name": "Moksha Sanyasa Yoga",
+          "total_verses": 78,
+          "file_name": "chapter_18.json",
+          "short_description": "సమస్త గీతా సారాంశం, స్వధర్మాచరణ, సర్వధర్మాన్ పరిత్యజ్య చరమ శ్లోకం మరియు యత్ర యోగేశ్వరః కృష్ణో విజయం."
+        }
+      ]
+    }
+  ]
+}
